@@ -11,5 +11,4 @@ Here you can find SDKs, API documentation, protocol specifications, and code sam
 
 ## Documentation
 
-- [Product Integration Documentation](https://hanwhavisionlabs.github.io/product-integration-docs/): Guides for integrating Hanwha Vision products with your own systems and services.
 - [OpenPlatform SDK Documentation](https://hanwhavisionlabs.github.io/opensdk-docs/): Programming guides, API references, sample applications, and supported devices.
