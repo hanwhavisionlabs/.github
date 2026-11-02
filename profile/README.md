@@ -12,3 +12,4 @@ Here you can find SDKs, API documentation, protocol specifications, and code sam
 ## Documentation
 
 - [OpenPlatform SDK Documentation](https://hanwhavisionlabs.github.io/opensdk-docs/): Programming guides, API references, sample applications, and supported devices.
+- [Product Integration Documentation](https://hanwhavisionlabs.github.io/product-integration-docs/): SUNAPI protocol reference and API documentation for Wise applications.
